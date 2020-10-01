@@ -1,6 +1,6 @@
 # Phalcon Website
 
-Repository archived. New repository: https://github.com/phalcon/phalcon.io
+Repository archived. You can find the new repository at: https://github.com/phalcon/phalcon.io
 
 Official Phalcon Website source code. Feel free to improve it or use the code in your own projects.
 
